@@ -1,0 +1,16 @@
+1. 일반장비 상점 판매 제거(2020-09-23)
+https://cafe.naver.com/jojopeople/220469
+2. 장비 가능 부대 표시 설정(2020-09-23)
+https://cafe.naver.com/jojopeople/196251
+2. 책략 크리티컬 대사 미출력 오류 수정(2020-10-11)
+https://cafe.naver.com/jojopeople/316275
+4. 인물별 아이템 장착설정(2020-10-12)
+https://cafe.naver.com/jojopeople/309286
+5. 대사창 가로 세로 확장 중 수정3 적용(2020-10-14)
+https://cafe.naver.com/jojopeople/175851
+6. 정보전송2, 정보전송3 사용시 인물중심 좌표설정 수정4적용(2020-10-21)
+https://cafe.naver.com/jojopeople/159254
+7. 상태이상 효과시 기존의 상태이상을 유지한 채로 추가효과를 덧씌우는 방식 추가, 선모션 제거
+https://cafe.naver.com/jojopeople/316823
+8. 인물 그래픽변경 통합 명령어 (정보전송0-16) 중 수정1 적용(2020-12-08)
+https://cafe.naver.com/jojopeople/303520
